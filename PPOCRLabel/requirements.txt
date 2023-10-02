@@ -1,3 +1,5 @@
 pyqt5
 paddleocr
 xlrd==1.2.0
+opencv-contrib-python>=4.8.1.78 # not directly required, pinned by Snyk to avoid a vulnerability
+opencv-python>=4.8.1.78 # not directly required, pinned by Snyk to avoid a vulnerability
