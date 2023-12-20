@@ -1,1 +1,2 @@
 paddleslim==2.2.1
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
