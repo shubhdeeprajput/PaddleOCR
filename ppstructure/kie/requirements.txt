@@ -5,3 +5,5 @@ pypandoc
 attrdict
 python_docx
 paddlenlp>=2.4.1
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
