@@ -5,3 +5,4 @@ pypandoc
 attrdict
 python_docx
 paddlenlp>=2.4.1
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
