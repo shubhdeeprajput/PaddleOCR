@@ -17,3 +17,4 @@ attrdict
 Polygon3
 lanms-neo==1.0.2
 PyMuPDF==1.19.0
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
