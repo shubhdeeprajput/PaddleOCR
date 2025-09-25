@@ -1,5 +1,5 @@
 python-docx
-PyMuPDF==1.19.0
+PyMuPDF==1.26.0
 beautifulsoup4
 fonttools>=4.24.0
 fire>=0.3.0
